@@ -3,9 +3,9 @@ import { FaSearch } from "react-icons/fa";
 export default function MainSection() {
     return (
         <main className="w-full ">
-            <header>
+            <header className="flex justify-between ">
                 <h1>Product</h1>
-                <div>
+                <div className="flex ">
                     <input
                         type="text"
                         placeholder="Type here"
