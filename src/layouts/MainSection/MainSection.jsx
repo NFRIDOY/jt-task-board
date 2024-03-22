@@ -2,6 +2,8 @@
 
 export default function MainSection() {
     return (
-        <div>MainSection</div>
+        <div className="w-full bg-base-200">
+            MainSection
+        </div>
     )
 }
