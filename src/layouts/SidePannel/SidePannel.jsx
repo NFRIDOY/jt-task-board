@@ -8,7 +8,7 @@ import { IoIosHelp } from "react-icons/io";
 
 export default function SidePannel() {
     return (
-        <main className="lg:w-[400px] lg:max-h-[100vh] border-2 rounded-2xl py-2 px-3">
+        <main className="lg:w-[400px] lg:max-h-screen border-2 rounded-2xl py-2 px-3">
             <section id="profile" className="flex justify-between items-center mb-6">
                 <div className="flex items-center gap-x-3">
                     <figure>
