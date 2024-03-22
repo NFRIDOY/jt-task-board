@@ -282,7 +282,7 @@ export default function SidePannel() {
                             </h2>
                         </div>
                     </div>
-                    <div>
+                    <div className="mr-6">
                         <GoQuestion size={15} />
                     </div>
                 </div>
